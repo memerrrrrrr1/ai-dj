@@ -1,0 +1,41 @@
+.my_h3{
+    color:#c3d4ee !important;
+    font-size: 25px;
+    font-weight: bold;
+    width: 100%;
+    margin-top: 0px;
+    box-shadow: 5px 10px 30px rgb(34, 59, 170);
+}
+span{
+    font-size: 15px;
+}
+
+.my_speed_div{
+    float: left;
+    margin-left: 30px;
+}
+
+.disc{
+    border-radius: 100px;
+    width: 200px;
+    
+}
+
+.my_vol_div{
+    float: right;
+    margin-right: 30px;
+}
+
+.my_btn{
+    width: 10%;
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: 400;
+    height: 60px;
+}
+canvas{
+    border-width: 5px;
+    border-color: rgb(122, 169, 240);
+    box-shadow: 10px 10px 35px rgb(142, 120, 221);
+    border-style: dashed;
+}
